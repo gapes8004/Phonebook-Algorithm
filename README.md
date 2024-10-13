@@ -19,9 +19,13 @@ Project Overview
 This project is a phonebook management system designed for a Namibian telecommunications company. The phonebook application is based on basic linear data structures such as arrays and linked lists, offering the following features:
 
 Insert Contact: Adds a new contact to the phonebook.
+
 Search Contact: Allows searching for contacts by name or phone number.
+
 Display All Contacts: Lists all contacts in the phonebook.
+
 Delete Contact: Removes a contact from the phonebook.
+
 Update Contact: Edits the details of an existing contact.
 
 
